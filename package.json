@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "npm:@nuxtjs/i18n-edge@latest",
+    "nuxt": "3.0.0-rc.4"
+  }
+}
